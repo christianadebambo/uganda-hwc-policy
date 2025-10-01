@@ -39,6 +39,8 @@ The notebook runs end-to-end:
 - Cleans and engineers features
 - Trains models
 - Saves outputs under _outputs/_
+  
+_**N.B: Adjust file paths accordingly**_
 
 ## Outputs
 Key artefacts saved in _outputs/_:
