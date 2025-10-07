@@ -63,9 +63,12 @@ Key artefacts saved in _outputs/_:
 If you use this repository, please cite:
 
 ```bibtex
-@article{adebambo2025ugandahwc,
-  title   = {Uncertainty-Aware Decision Support for Human-Wildlife Conflict in Uganda},
-  author  = {Adebambo, Christian Adeoye},
-  year    = {2025}
+@misc{adebambo2025ugandahwc,
+  title     = {Uncertainty-Aware Decision Support for Human-Wildlife Conflict in Uganda},
+  author    = {Adebambo, Christian Adeoye},
+  year      = {2025},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.17247146},
+  url       = {https://zenodo.org/doi/10.5281/zenodo.17247146}
 }
 ```
