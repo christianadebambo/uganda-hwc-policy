@@ -20,20 +20,29 @@ We develop a reproducible pipeline for human–wildlife conflict (HWC) decision 
 
 Dataset: _kasese-hwc-data-2021-combined-2021-2022-partly-cleaned.csv_
 
-## Quickstart
+## Installation
 
-Clone this repository
-
-1. **Install dependencies:**
+Clone this repository:
 ```bash
+git clone https://github.com/christianadebambo/uganda-hwc-policy.git
+cd uganda-hwc-policy
+```
+
+Create a virtual environment and install dependencies:
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
 ```
-2. **Run the pipeline**
+
+## Usage
 
 Open the notebook:
 ```bash
 jupyter notebook uganda-hwc-policy.ipynb
 ```
+
 The notebook runs end-to-end:
 - Loads raw CSV (update path if running locally)
 - Cleans and engineers features
@@ -49,5 +58,14 @@ Key artefacts saved in _outputs/_:
 - _tabtransformer_perm_importance.csv_ - feature importance
 - _uplift_recommendations_by_parish.csv_ - parish-level recommendations
 
+## Citation
 
+If you use this repository, please cite:
 
+```bibtex
+@article{adebambo2025ugandahwc,
+  title   = {Uncertainty-Aware Decision Support for Human-Wildlife Conflict in Uganda},
+  author  = {Adebambo, Christian Adeoye},
+  year    = {2025}
+}
+```
