@@ -1,12 +1,5 @@
 # Uncertainty-Aware Decision Support for Human-Wildlife Conflict in Uganda
 
-This repository contains the code and dataset for:
-
-**Christian Adeoye Adebambo**  
-*Uncertainty-Aware Decision Support for Human-Wildlife Conflict in Uganda*
-
-doi: https://doi.org/10.5281/zenodo.17247146 
-
 ## Overview
 
 We develop a reproducible pipeline for human–wildlife conflict (HWC) decision support in Uganda’s Kasese District, combining:
@@ -57,18 +50,3 @@ Key artefacts saved in _outputs/_:
 - _logistic_top_weights.csv_ - logistic regression weights
 - _tabtransformer_perm_importance.csv_ - feature importance
 - _uplift_recommendations_by_parish.csv_ - parish-level recommendations
-
-## Citation
-
-If you use this repository, please cite:
-
-```bibtex
-@misc{adebambo2025ugandahwc,
-  title     = {Uncertainty-Aware Decision Support for Human-Wildlife Conflict in Uganda},
-  author    = {Adebambo, Christian Adeoye},
-  year      = {2025},
-  publisher = {Zenodo},
-  doi       = {10.5281/zenodo.17247146},
-  url       = {https://zenodo.org/doi/10.5281/zenodo.17247146}
-}
-```
