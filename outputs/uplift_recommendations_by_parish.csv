@@ -1,0 +1,44 @@
+parish,subcounty,best_action,mean_pred_gain,n_cases
+Busunga,Lake Katwe,sensitisation,0.90127254,60
+Kabirizi,Lake Katwe,sensitisation,0.94818974,20
+Kanyangeya,Nyamwamba,sensitisation,0.7907105,16
+Kyondo,Karusandara,sensitisation,0.82323325,13
+Kyondo,Nyamwamba,sensitisation,0.75930446,11
+Kyondo,Kyondo,sensitisation,0.8260209,9
+Rwehingo,Nyakatonzi,sensitisation,0.72235745,9
+Hamukungu,Lake Katwe,sensitisation,0.53726584,9
+Rwehingo,Nyakiyumbu,sensitisation,0.7866825,8
+Karusandara,Karusandara,sensitisation,0.6650686,5
+Scheme,Nyamwamba,sensitisation,0.73895967,4
+Kisinga,Kisinga,sensitisation,0.63043183,4
+Kasenyi,Lake Katwe,sensitisation,0.57780284,4
+Kikorongo,Lake Katwe,sensitisation,0.46317,4
+Railway Ward,Kasese Municipality,sensitisation,0.9006694,3
+Katholhu,Nyakiyumbu,sensitisation,0.5959587,3
+Nyamatunga,Munkunyu,sensitisation,0.7480598,2
+Rukoki,Nyamwamba,sensitisation,0.7206899,2
+Hamukungu,Muhokya,sensitisation,0.31028178,2
+Kayanja,Nyakiyumbu,sensitisation,0.95846105,1
+Busunga,Kabirizi,sensitisation,0.9227454,1
+Kanyangeya,Kasese Municipality,sensitisation,0.86445403,1
+Kinyayobya,Kyondo,sensitisation,0.83477724,1
+Kagando,Kisinga,sensitisation,0.8302831,1
+Kyalanga,Nyamwamba,sensitisation,0.797777,1
+Kyalanga,Karusandara,sensitisation,0.7448416,1
+Muruti,Nyakatonzi,sensitisation,0.7228745,1
+Mubuku,Mubuku,sensitisation,0.71319723,1
+Kisasa,Nyakatonzi,sensitisation,0.6554529,1
+Railway Ward,Central Division,sensitisation,0.6137614,1
+Bukangara,Nyakatonzi,sensitisation,0.5683315,1
+Katwe-Kabatoro,Lake Katwe,scare_shooting,0.5546708,1
+Nyamugasani,Katwe-Kabatoro,assessment,0.52594113,1
+Kyambogho,Kilembe,sensitisation,0.51489884,1
+Nyakasanga,Nyamwamba,sensitisation,0.4433809,1
+Kyababinga,Kasese Municipality,sensitisation,0.40121496,1
+Muhokya,Muhokya,sensitisation,0.36609405,1
+Mweya,Katwe-Kabatoro,sensitisation,0.34481198,1
+Katunguru,Katunguru,sensitisation,0.3151912,1
+Kabirizi,Kilembe,sensitisation,0.29073685,1
+Rwenjubu,Katwe-Kabatoro,sensitisation,0.29067338,1
+Lake Katwe,Katwe-Kabatoro,sensitisation,0.18547732,1
+Kilembe,Kilembe,sensitisation,0.15229791,1

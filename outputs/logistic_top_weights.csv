@@ -1,0 +1,101 @@
+class,feature,weight
+0,conflict_std_Human Threat,2.188588678365332
+0,response_Scare Shooting,0.7670287749799937
+0,village_Kahendero,0.708026979997353
+0,conflict_std_Crop Damage,-0.6755965487852672
+0,parish_Kahendero,0.6403493687367566
+0,subcounty_Muhokya,0.6356477159677641
+0,conflict_std_Human Injury,-0.5753449519104815
+0,response_Assessment Carried Out,-0.551288316311392
+0,species_Hippopotamus,0.5429669452530763
+0,response_Captured,0.5105886660732951
+0,village_Katwe-Kabatoro,0.5081305457951737
+0,parish_Katwe-Kabatoro,0.46576039473327846
+0,conflict_std_Human Death,-0.4360738395250881
+0,subcounty_Nyamwamba,0.4052985637722161
+0,ca_Qeca,-0.3912120055439819
+0,ca_nan,0.39110465312265996
+0,response_Taken To Hospital,-0.3733765943475061
+0,village_Kanyangeya,0.30479641222560544
+0,conflict_std_Property Damage,-0.2917977711153548
+0,dow,-0.2611706444991426
+0,parish_Kanyangeya,0.257320561298004
+0,village_Kyarukara,-0.2356701362006829
+0,parish_Kasenyi,-0.22924016442875814
+0,species_Buffalo,-0.19710991869154143
+0,subcounty_Katwe-Kabatoro,-0.18940354406326468
+1,conflict_std_Crop Damage,2.042192746085753
+1,conflict_std_Human Injury,-1.4193120464845834
+1,conflict_std_Human Death,-1.229795953790376
+1,conflict_std_Human Threat,-1.1923135013045325
+1,conflict_std_Livestock Predation,1.0047223347840701
+1,conflict_std_Property Damage,0.6413529538301648
+1,response_Taken To Hospital,-0.5312631003451839
+1,response_Scare Shooting,0.43731715207146726
+1,species_Hippopotamus,-0.4195668379213272
+1,species_Elephant,0.35081822348136643
+1,is_weekend,0.31908649290052504
+1,ca_Qeca,0.31877646699986145
+1,ca_nan,-0.31860889550355154
+1,species_Crocodile,-0.2906908884020283
+1,village_Kahendero,-0.29064501106296314
+1,parish_Kanyangeya,-0.24143542470529755
+1,parish_Top Hill,-0.24026298615351654
+1,subcounty_Lake Katwe,-0.23043587939888038
+1,response_Captured,-0.22882945109640634
+1,parish_Kahokya,-0.2264167085842348
+1,species_Buffalo,-0.22606988136630723
+1,species_Leopard,0.22434038704752537
+1,village_Kanyangeya,-0.22266970876005174
+1,village_Karusandara,-0.21225949514148706
+1,response_Scaring Using Local Methods Of Drumming,0.2027220814021657
+2,conflict_std_Human Injury,3.024372799154321
+2,conflict_std_Human Death,-1.0167496960880587
+2,conflict_std_Crop Damage,-0.7437419912570624
+2,conflict_std_Human Threat,-0.5919964132135432
+2,response_Scare Shooting,-0.5553671017478032
+2,response_Taken To Hospital,0.5264168050448816
+2,conflict_std_Livestock Predation,-0.42546083915389177
+2,village_Katwe-Kabatoro,-0.35433626525028955
+2,subcounty_Central Division,0.33617925636988966
+2,is_weekend,-0.3093657963261105
+2,parish_Kahokya,0.29841099286264966
+2,village_Kasenyi,0.28947463774243914
+2,parish_Busunga,0.26130468648155936
+2,species_Buffalo,0.2539736885599152
+2,parish_Kanyangeya,0.23705416363587517
+2,ca_nan,-0.22129405197748167
+2,ca_Qeca,0.2212738570055428
+2,response_Taken To Bwera Hospital Hwere He Passed On,0.21229168444102134
+2,subcounty_Kasese Municipality,-0.20989132261015733
+2,village_Hamukungu,0.20825844798350493
+2,parish_Hamukungu,-0.2017641537417398
+2,parish_Ibanda,0.1966468906899946
+2,subcounty_Ibanda,0.1966468906899946
+2,village_Kyallughatu,0.1966468906899946
+2,village_Rwehingo,0.1817924955036347
+3,conflict_std_Human Death,2.6826194894035287
+3,conflict_std_Human Injury,-1.0297158007592535
+3,response_Scare Shooting,-0.6489788253036606
+3,conflict_std_Crop Damage,-0.6228542060434241
+3,parish_Top Hill,0.5401223366598943
+3,species_Crocodile,0.5260584585139721
+3,subcounty_Katwe-Kabatoro,0.46361861286807715
+3,response_Assessment Carried Out,0.4189340782709155
+3,conflict_std_Livestock Predation,-0.4091252368051374
+3,conflict_std_Human Threat,-0.4042787638472593
+3,response_Captured,-0.38309700069706737
+3,response_Taken To Hospital,0.37822288964780787
+3,parish_Kasenyi,0.3658437396334322
+3,parish_Katwe-Kabatoro,-0.35708974103383045
+3,village_Mwaro,0.33727043105574184
+3,village_Kasasiro,0.3297933381378143
+3,village_Rubona,0.3174617655905778
+3,parish_Kahendero,-0.31231152475408863
+3,village_Kibati,0.30468271668648805
+3,subcounty_Muhokya,-0.2976420026781112
+3,response_nan,0.29662671349761127
+3,village_Karusandara,0.28248153325763514
+3,village_Kahendero,-0.2794275274815908
+3,parish_Karusandara,0.27130930464785125
+3,parish_Kanyangeya,-0.25293930022858335
